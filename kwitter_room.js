@@ -48,5 +48,5 @@ window.location = "kwitter_page.html";
 function logout() {
 localStorage.removeItem("Username");
 localStorage.removeItem("Roomname");
-window.location = "Main.html";
+window.location = "index.html";
 }
